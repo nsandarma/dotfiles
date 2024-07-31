@@ -1,0 +1,18 @@
+{
+    "window.zoomLevel": 1,
+    "terminal.integrated.inheritEnv": false,
+    "editor.fontFamily": "'FiraCode Nerd Font'",
+    "terminal.integrated.fontFamily": "monospace",
+    "editor.fontLigatures": true,
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "vim.enableNeovim": true,
+    "vim.neovimPath": "/opt/nvim-linux64/bin",
+    "vim.useSystemClipboard": true,
+    "vim.insertModeKeyBindings": [
+       {
+        "before" : ["j","k"],
+        "after": ["<Esc>"]
+       } 
+    ],
+    "workbench.colorTheme": "Gruvbox Dark Hard"
+}
